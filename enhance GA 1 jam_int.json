@@ -1,0 +1,28 @@
+{
+  "best_method": "Enhanced Genetic Algorithm 1 jam-an dengan coerce int",
+  "best_score": 0.8379185921464114,
+    "n_features": 21,
+  "selected_features": [
+    "recency_days_mean",
+    "recency_days_min",
+    "JoinToLastTransaction_median",
+    "monthly_freq_velocity_mean",
+    "TransactionToYoungestKidDOB_median",
+    "rolling_monthly_monetary_median",
+    "YoungestKidAgeDays_max",
+    "is_beginning_of_month_mean",
+    "rolling_weekly_monetary_mean",
+    "TransactionDayPart_stability",
+    "monthly_monetary_velocity_max",
+    "avg_neighbor_degree",
+    "rolling_monthly_monetary_last",
+    "CustomerTenureDays_min",
+    "Point_p90",
+    "PricePerUnit_first",
+    "Qty_p25",
+    "EldestKidAgeDays_median",
+    "rolling_quarterly_freq_last",
+    "weekly_monetary_velocity_mean",
+    "rolling_weekly_monetary_median"
+  ]
+}
