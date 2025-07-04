@@ -1,4 +1,4 @@
-json_content = '''
+
 {
   "best_method": "Genetic Algorithm with Interaction",
   "best_score": 0.7285014930081634,
